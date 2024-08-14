@@ -1,0 +1,8 @@
+diffusers==0.30.0
+numpy==2.0.1
+Pillow==10.4.0
+pytorch_lightning==2.4.0
+taichi==1.7.1
+torch==2.4.0+cu118
+tqdm==4.66.5
+transformers==4.44.0

@@ -162,3 +162,8 @@ cython_debug/
 
 #pytorch
 *.ckpt
+
+# misc
+.ipynb_checkpoints
+__pycache__
+FGD_release
